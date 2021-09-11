@@ -1,3 +1,11 @@
+/*
+ * União Metropolitana de Educação e Cultura (UNIME)
+ * Curso: Bacharelado em Sistemas de Informação
+ * Disciplina: Programação Orientada a Objetos II
+ * Professor: Pablo Ricardo Roxo Silva
+ * Aluno: Paulo Reis dos Santos
+ */
+
 import Entities.Student;
 import Services.AverageCalculator;
 
